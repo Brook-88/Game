@@ -130,10 +130,75 @@
   
     },
     {
-        "question": "سايان",
+        "question": "ما اسم الكوكب الذي كان يعيش فيه فيجيتا؟",
+        "response": "سايان"
+  
+    },
+    {
+        "question": "من هو مؤسس فرقة الاستطلاع؟",
+        "response": "ايروين"
+  
+    },
+    {
+        "question": "ما اسم الجدار الذي تم اختراقه في الحلقة الأولى من انمي اتاك؟",
+        "response": "ماريا"
+  
+    },
+    {
+        "question": "ما اسم السيف الذي يمتلكه الثعبان من انمي فينلاند ساغا؟",
+        "response": "شمشير"
+  
+    },
+    {
+        "question": "من هو الشخص الذي دل ثورفين على فينلاند؟",
+        "response": "ليف"
+  
+    },
+    {
+        "question": "ما هو اسم الشيطان المقيم داخل أستا؟",
+        "response": "ليبي"
+  
+    },
+    {
+        "question": "ما هو اسم امبراطور فرسان السحر صاحب أعلى رتبة؟",
+        "response": "يوليوس"
+  
+    },
+    {
+        "question": "ما هو اسم أقوى فرسان الفرقة الحمراء؟",
+        "response": "ليون"
+  
+    },
+    {
+        "question": "ما هو اسم أقوى فرسان الفرقة الذهبية الفجر؟",
+        "response": "ويليام"
+  
+    },
+    {
+        "question": "ما هو اسم الأقوى بين الشياطين الأربعة العظماء؟",
+        "response": "لوسفير"
+  
+    },
+    {
+        "question": "",
         "response": ""
   
     },
+    {
+        "question": "",
+        "response": ""
+  
+    },
+    {
+        "question": "",
+        "response": ""
+  
+    },
+    {
+        "question": "",
+        "response": ""
+  
+    },  
     {
         "question": "",
         "response": ""
@@ -158,7 +223,7 @@
         "question": "",
         "response": ""
   
-    },
+    },  
     {
         "question": "",
         "response": ""
@@ -174,6 +239,41 @@
         "response": ""
   
     },
+    {
+        "question": "",
+        "response": ""
+  
+    },
+    {
+        "question": "",
+        "response": ""
+  
+    },  
+    {
+        "question": "",
+        "response": ""
+  
+    },
+    {
+        "question": "",
+        "response": ""
+  
+    },
+    {
+        "question": "",
+        "response": ""
+  
+    },
+    {
+        "question": "",
+        "response": ""
+  
+    },
+    {
+        "question": "",
+        "response": ""
+  
+    },  
     {
         "question": "",
         "response": ""
