@@ -1,450 +1,1156 @@
 [
-{
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-        
-    }, 
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-       "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
   {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-        
-    }, 
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-       "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "في أي جهة يقع باب الكعبة المشرفة؟",
+    "answer_1": "في الجهة الغربية من الكعبة",
+    "answer_2": "في الجهة الجنوبية من الكعبة",
+    "answer_3": "في الجهة الشمالية من الكعبة",
+    "answer_4": "في الجهة الشرقية من الكعبة",
+    "right_answer": "4"
+  },
+
   {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-        
-    }, 
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-       "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "من هو الصحابي الذي كانت تستحي منه ملائكة السماء؟",
+  "answer_1": "علي بن أبي طالب",
+  "answer_2": "عثمان بن عفان",
+  "answer_3": "عمر بن الخطاب",
+  "answer_4": "أبو بكر الصديق",
+  "right_answer": "2"
+  },
+
   {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-        
-    }, 
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-       "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما اسم أخو يوسف عليه السلام من أمه وأبيه؟",
+  "answer_1": "روأبين",
+  "answer_2": "بنيامين",
+  "answer_3": "يهوذا",
+  "answer_4": "يوشع",
+  "right_answer": "2"
+  },
+
   {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-        
-    }, 
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-       "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "من من الخلفاء الراشدين كان الأكبر سنا عندما لقي ربه؟",
+  "answer_1": "عثمان بن عفان",
+  "answer_2": "أبو بكر الصديق",
+  "answer_3": "عمر بن الخطاب",
+  "answer_4": "علي بن أبي طالب",
+  "right_answer": "1"
+  },
+
   {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-        
-    }, 
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-       "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما هي الرادفة؟",
+  "answer_1": "يوم القيامة",
+  "answer_2": "النفخة الأولى في البوق",
+  "answer_3": "النفخة الثانية في البوق",
+  "answer_4": "انشقاق الأرض",
+  "right_answer": "3"
+  },
+
   {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-    }, 
-    {
-        "question": "",
-        "response": ""
-        
-    }, 
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    },
-    {
-        "question": "",
-        "response": ""
-        
-    },
-    {
-        "question": "",
-       "response": ""
-        
-    },
-    {
-        "question": "",
-        "response": "" 
-        
-    }
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما اسم السورة التي تنتهي آياتها بحرف السين؟",
+  "answer_1": "لفلق",
+  "answer_2": "الصمد",
+  "answer_3": "الناس",
+  "answer_4": "الضخى",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "متي توفي الرسول -صلي الله عليه وسلم-وكم كان عمره؟؟؟",
+  "answer_1": "توفي يوم الثلاثاء وعمره 45",
+  "answer_2": "توفي يوم الثلاثاء وعمره 62",
+  "answer_3": "توفي يوم الاثنين وعمره 63",
+  "answer_4": "توفي يوم الجمعه وعمره 64",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "من هو أول نبي قام بإرتداء السروال ؟؟",
+  "answer_1": "سيدنا أبراهيم صلى الله عليه السلام",
+  "answer_2": "سيدنا محمد صلي الله عليه وسلم",
+  "answer_3": "سيدنا عيسى عليه السلام",
+  "answer_4": "سيدنا موسى عليه السلام",
+  "right_answer": "1"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "إلى أي قبيلة ينتمي الرسول صلى الله عليه وسلم ؟",
+  "answer_1": "قبيلة قريش العدنانيه",
+  "answer_2": "قبيله همدان",
+  "answer_3": "قبيله جرهم اليمنيه",
+  "answer_4": "قبيله كنده",
+  "right_answer": "1"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "يجب اخراج الزكاة من الذهب اذا كان يبلغ النصاب الشرعي وهو؟",
+  "answer_1": "88 غراما",
+  "answer_2": "78 غراما",
+  "answer_3": "85 غراما",
+  "answer_4": "58 غراما",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما أول صلاة فرضت على الرسول صلى الله عليه وسلم ؟",
+  "answer_1": "العصر",
+  "answer_2": "الضهر",
+  "answer_3": "المغرب",
+  "answer_4": "الفجر",
+  "right_answer": "2"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "قال تعالى في سورة المدثر: (والرجز فاهجر (5)) ما المقصود بالرجز؟",
+  "answer_1": "الكذب",
+  "answer_2": "الأوثان",
+  "answer_3": "الجدال",
+  "answer_4": "النوم",
+  "right_answer": "2"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "اذكر المهنتين التي عمل فيهما الرسول محمد صلى الله عليه وسلم",
+  "answer_1": "الرعي والخياطة",
+  "answer_2": "التجارة والسباكة",
+  "answer_3": "الرعي والتجارة",
+  "answer_4": "لاشئ مما سبق",
+  "right_answer": "3"
+  },
+  
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "قال تعالى: (والصافات صفا * فالزاجرات زجرا) ما المقصود بالزاجرات؟",
+  "answer_1": "الملائكة",
+  "answer_2": "الرياح",
+  "answer_3": "الغمام",
+  "answer_4": "السحاب",
+  "right_answer": "1"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "من هو النبي الذي أرسل الى قوم ثمود؟",
+  "answer_1": "صالح",
+  "answer_2": "هود",
+  "answer_3": "نوح",
+  "answer_4": "شعيب",
+  "right_answer": "1"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "كم عدد الأنبياء الذين ذكروا في سورة الأنبياء؟",
+  "answer_1": "18 نبي",
+  "answer_2": "19 نبي",
+  "answer_3": "16 نبي",
+  "answer_4": "25 نبي",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "كي يسلم اي شخص ماذا يجب عليه فعله ؟؟",
+  "answer_1": "الزكاة",
+  "answer_2": "الصلاة",
+  "answer_3": "نطق الشهادتين ثم اتباع ما سبق",
+  "answer_4": "الحج والصيام",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "كم عدد السور التي افتتحت بثلاثة أحرف؟",
+  "answer_1": "16 سورة",
+  "answer_2": "15 سورة",
+  "answer_3": "14 سورة",
+  "answer_4": "13 سورة",
+  "right_answer": "4"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "من هو النبي الذي دعا ربه (توفني مسلما وألحقني بالصالحين)؟",
+  "answer_1": "يعقوب عليه السلام",
+  "answer_2": "يوسف عليه السلام",
+  "answer_3": "صالح عليه السلام",
+  "answer_4": "ابراهيم عليه السلام",
+  "right_answer": "2"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "اسم أم نبينا محمد (صلى الله عليه و سلم)",
+  "answer_1": "أمنه",
+  "answer_2": "سارة",
+  "answer_3": "ام كلثوم",
+  "answer_4": "ا",
+  "right_answer": "1"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "في أي سورة وردت الآية: (يمحق الله الربا ويربي الصدقات والله لا يحب كل كفار أثيم)؟",
+  "answer_1": "المائدة",
+  "answer_2": "البقرة",
+  "answer_3": "آل عمران",
+  "answer_4": "هود",
+  "right_answer": "2"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "من هو الصحابي الذي اهتز عرش الرحمن لموته ؟",
+  "answer_1": "حمزه",
+  "answer_2": "سعد بن معاذ",
+  "answer_3": "ابو ذر الغفاري",
+  "answer_4": "كعب بن مالك",
+  "right_answer": "2"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "من اول نبي صام ؟؟",
+  "answer_1": "سيدنا ادم",
+  "answer_2": "سيدنا عيسى",
+  "answer_3": "سيدنا محمد",
+  "answer_4": "سيدنا ابراهيم",
+  "right_answer": "1"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما اسم الكتب التي أنزلها الله على داود ؟",
+  "answer_1": "الانجيل",
+  "answer_2": "الزبور",
+  "answer_3": "الصحف",
+  "answer_4": "القران",
+  "right_answer": "2"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "من الذي لقب الرسول الكريم بالطيب المطيب؟",
+  "answer_1": "زيد بن حارثة",
+  "answer_2": "أسامة بن زيد",
+  "answer_3": "أنس بن مالك",
+  "answer_4": "عمار بن ياسر",
+  "right_answer": "4"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما هو الدعاء الذي يردده المصلين بين السجدتين ؟؟",
+  "answer_1": "اللهم اغفر لي ذنبي",
+  "answer_2": "سبحان ربي الأعلى",
+  "answer_3": "لا حول ولا قوة الا بلله",
+  "answer_4": "سبحان رب العرش العظيم",
+  "right_answer": "1"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "أي من الأنبياء كان يتمنى موته ؟",
+  "answer_1": "سيدنا نوح عليه السلام",
+  "answer_2": "سيدنا آدم عليه السلام",
+  "answer_3": "سيدنا يوسف عليه السلام",
+  "answer_4": "سيدنا موسى عليه السلام",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "أحد هؤلاء الصحابة من العشرة المبشرين بالجنة؟",
+  "answer_1": "سلمان الفارسي",
+  "answer_2": "عقيل بن أبي طالب",
+  "answer_3": "سعد بن أبي وقاص",
+  "answer_4": "الأشعث بن قيس",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "قام أحدهم بمبادلة صاع من القمح الجيد بصاعين من القمح الرديء لشخص آخر ما حكم هذه المبادلة؟",
+  "answer_1": "جائزة",
+  "answer_2": "مضاربة",
+  "answer_3": "ربا الفضل",
+  "answer_4": "ربا النسيئة",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "من هي مرضعة الرسول (ص) حتّى شبّ ؟",
+  "answer_1": "حليمه",
+  "answer_2": "امنة",
+  "answer_3": "فاطمه",
+  "answer_4": "هاجر",
+  "right_answer": "1"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما اسم الزوجة الثالثة بالترتيب التي تزوجها النبي صلى الله عليه وسلم؟",
+  "answer_1": "حفصة بنت عمر",
+  "answer_2": "عائشة بنت أبي بكر الصديق",
+  "answer_3": "أم سلمة",
+  "answer_4": "سودة بنت زمعة",
+  "right_answer": "2"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما السورة التي ختمت باسم وقت من أوقات الصلاة؟",
+  "answer_1": "سورة القدر",
+  "answer_2": "سورة البلد",
+  "answer_3": "سورة الأعلى",
+  "answer_4": "سورة الفجر",
+  "right_answer": "1"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "كم عدد التكبيرات في الركعة الأولى في صلاة العيد؟",
+  "answer_1": "ستة",
+  "answer_2": "سبعة",
+  "answer_3": "تسعة",
+  "answer_4": "خمسة",
+  "right_answer": "2"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "كم سورة في القرآن؟",
+  "answer_1": "30",
+  "answer_2": "60",
+  "answer_3": "112",
+  "answer_4": "114",
+  "right_answer": "4"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما هو عدد حملة العرش يوم القيامة والمذكورين في القرآن الكريم؟",
+  "answer_1": "سبعة",
+  "answer_2": "ستة",
+  "answer_3": "ثمانية",
+  "answer_4": "تسعة",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "من أول من لقب بأمير المؤمنين؟",
+  "answer_1": "عثمان بن عفان",
+  "answer_2": "أبو بكر الصديق",
+  "answer_3": "عمر بن الخطاب",
+  "answer_4": "علي بن أبي طالب",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ماهي السورة التي يطلق عليها عروس القرآن ؟",
+  "answer_1": "ال عمران",
+  "answer_2": "البقره",
+  "answer_3": "الرحمن",
+  "answer_4": "الفاتحه",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما هي السورة التي لا تبدأ بالبسملة؟",
+  "answer_1": "النحل",
+  "answer_2": "النمل",
+  "answer_3": "الإسراء",
+  "answer_4": "التوبة",
+  "right_answer": "4"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما هي السورة التي يطلق عليها أم الكتاب؟",
+  "answer_1": "سورة محمد",
+  "answer_2": "سورة البقرة",
+  "answer_3": "سورة يس",
+  "answer_4": "سورة الفاتحة",
+  "right_answer": "4"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "ما هي السورة التي تسمى سورة التوديع؟",
+  "answer_1": "سورة الزلزلة",
+  "answer_2": "سورة الحج",
+  "answer_3": "سورة النصر",
+  "answer_4": "سورة الفيل",
+  "right_answer": "3"
+  },
+
+  {
+  "status": true,
+  "owner": "@BK9dev",
+  "question": "من أول من نقض العهد مع الرسول صلى الله عليه وسلم من القبائل اليهودية ؟",
+  "answer_1": "يهود بني الاشبح",
+  "answer_2": "يهود بني قوفه",
+  "answer_3": "يهود بني قينقاع",
+  "answer_4": "يهود الاوس",
+  "right_answer": "3"
+  },
+  
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "إلى أي قبيلة ينتمي الرسول صلى الله عليه وسلم ؟",
+    "answer_1": "قبيلة قريش العدنانيه",
+    "answer_2": "قبيله همدان",
+    "answer_3": "قبيله جرهم اليمنيه",
+    "answer_4": "قبيله كنده",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "صح أم خطأ : هل صلاة الجمعة واجبه ؟",
+    "answer_1": "نعم, لانها تكون في وقت صلاة الظهر, و تصلي أربع ركعات اذا فاتك وقتها.",
+    "answer_2": "لا , ليست واجبه لانه تتكون من ركعتين.",
+    "answer_3": "ا",
+    "answer_4": "ا",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ماذا لقب ابراهيم عليه السلام؟",
+    "answer_1": "الصديق",
+    "answer_2": "شيخ المرسلين",
+    "answer_3": "اسرائيل",
+    "answer_4": "الخليل",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "السورة التي ابتدأت بالحرفين المقطعين (طس)؟",
+    "answer_1": "سورة الحجر",
+    "answer_2": "سورة الرعد",
+    "answer_3": "سورة الأعراف",
+    "answer_4": "سورة النمل",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم عيد للمسلمين؟",
+    "answer_1": "1",
+    "answer_2": "3",
+    "answer_3": "2",
+    "answer_4": "5",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما عدد أحزاب القرآن الكريم؟",
+    "answer_1": "50 حزبا",
+    "answer_2": "40 حزبا",
+    "answer_3": "30 حزبا",
+    "answer_4": "60 حزبا",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "من أسماء الخيل التي ذكرت في القرآن الكريم؟",
+    "answer_1": "الزاجرات",
+    "answer_2": "النازعات",
+    "answer_3": "الذاريات",
+    "answer_4": "العاديات",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "اذكر عدد سجدات التلاوة في القرآن الكريم ؟؟",
+    "answer_1": "10",
+    "answer_2": "20",
+    "answer_3": "15",
+    "answer_4": "19",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم عدد السور التي ابتدأت بالحروف المقطعة (الم)؟",
+    "answer_1": "أربعة سور",
+    "answer_2": "خمس سور",
+    "answer_3": "ثلاث سور",
+    "answer_4": "ستة سور",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "من أول من فتق لسانه بالعربية ؟",
+    "answer_1": "اسحاق",
+    "answer_2": "نوح",
+    "answer_3": "اسماعيل",
+    "answer_4": "يعقوب",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم عدد السور التي افتتحت بثلاثة أحرف؟",
+    "answer_1": "16 سورة",
+    "answer_2": "15 سورة",
+    "answer_3": "14 سورة",
+    "answer_4": "13 سورة",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "من هو الصحابي الذي كانت تستحي منه ملائكة السماء؟",
+    "answer_1": "علي بن أبي طالب",
+    "answer_2": "عثمان بن عفان",
+    "answer_3": "عمر بن الخطاب",
+    "answer_4": "أبو بكر الصديق",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "من هو النبي الذي دعا ربه (توفني مسلما وألحقني بالصالحين)؟",
+    "answer_1": "يعقوب عليه السلام",
+    "answer_2": "يوسف عليه السلام",
+    "answer_3": "صالح عليه السلام",
+    "answer_4": "ابراهيم عليه السلام",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم عدد مصارف الزكاة؟",
+    "answer_1": "ثمانية",
+    "answer_2": "خمسة",
+    "answer_3": "سبعة",
+    "answer_4": " تسعة",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم شخص اشترك في قتل ناقة النبي صالح عليه السلام؟",
+    "answer_1": "تسعة أشخاص",
+    "answer_2": "خمسة أشخاص",
+    "answer_3": "عشرة أشخاص",
+    "answer_4": "ثمانية أشخاص",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم كان عمر النبي محمد صلى الله عليه وسلم عندما توفيت أمه؟",
+    "answer_1": "3 سنوات",
+    "answer_2": "4 سنوات",
+    "answer_3": "5 سنوات",
+    "answer_4": "6 سنوات",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما هي اسم ناقة سيدنا محمد صلى الله عليه وسلم ؟؟",
+    "answer_1": "القصاء",
+    "answer_2": "المقصية",
+    "answer_3": "القصواء",
+    "answer_4": "ا",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "اسم الملك الذي يقف خازناً على جهنم؟؟؟",
+    "answer_1": "ميكائيل",
+    "answer_2": "مالك",
+    "answer_3": "اسرافيل",
+    "answer_4": "جبريل",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما اسم أخو يوسف عليه السلام من أمه وأبيه؟",
+    "answer_1": "روأبين",
+    "answer_2": "بنيامين",
+    "answer_3": "يهوذا",
+    "answer_4": "يوشع",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "أين ذكرت الآية الكريمة: ( وما آتاكم الرسول فخذوه وما نهاكم عنه فانتهوا)؟",
+    "answer_1": "سورة الحشر",
+    "answer_2": "سورة الصف",
+    "answer_3": "سورة الجمعة",
+    "answer_4": "سورة الواقعة",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ماهي السورة التي لا تحوي حرف الميم ؟",
+    "answer_1": "الكوثر",
+    "answer_2": "الاخلاص",
+    "answer_3": "المسد",
+    "answer_4": "الفلق",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما هو عدد حملة العرش يوم القيامة والمذكورين في القرآن الكريم؟",
+    "answer_1": "سبعة",
+    "answer_2": "ستة",
+    "answer_3": "ثمانية",
+    "answer_4": "تسعة",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما هي أعظم آية في القرآن الكريم؟",
+    "answer_1": "آية الكرسي",
+    "answer_2": "آخر آية من سورة الكهف",
+    "answer_3": "آخر آية من سورة البقرة",
+    "answer_4": "أول آية من سورة البقرة",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما هي السورة التي وردت فيها سجدتان في القرآن الكريم ؟",
+    "answer_1": "البقره",
+    "answer_2": "الرحمن",
+    "answer_3": "الحج",
+    "answer_4": "ال عمران",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "قال تعالى في سورة المدثر: (والرجز فاهجر (5)) ما المقصود بالرجز؟",
+    "answer_1": "الكذب",
+    "answer_2": "الأوثان",
+    "answer_3": "الجدال",
+    "answer_4": "النوم",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما هي اسم ناقة سيدنا محمد صلى الله عليه وسلم ؟؟",
+    "answer_1": "القصاء",
+    "answer_2": "المقصية",
+    "answer_3": "القصواء",
+    "answer_4": "ا",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "في أي سورة ذكرت قصة قابيل وهابيل؟",
+    "answer_1": "سورة الأعراف",
+    "answer_2": "سورة القصص",
+    "answer_3": "سورة الأنعام",
+    "answer_4": "سورة المائدة",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "في أي سورة وردت الآية التالية (ولبثوا في كهفهم ثلاث مئة سنين وازدادوا تسعا)؟",
+    "answer_1": "سورة الكهف",
+    "answer_2": "سورة فصلت",
+    "answer_3": "سورة مريم",
+    "answer_4": "سورة غافر",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما هي أعظم آية في القرآن الكريم؟",
+    "answer_1": "آية الكرسي",
+    "answer_2": "آخر آية من سورة الكهف",
+    "answer_3": "آخر آية من سورة البقرة",
+    "answer_4": "أول آية من سورة البقرة",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما معنى الميسر ؟",
+    "answer_1": "الأنصاب",
+    "answer_2": "الأزلام",
+    "answer_3": "الخمر",
+    "answer_4": "القمار",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما عدد أحزاب القرآن الكريم؟",
+    "answer_1": "50 حزبا",
+    "answer_2": "40 حزبا",
+    "answer_3": "30 حزبا",
+    "answer_4": "60 حزبا",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "اول من اسلم من النساء ؟",
+    "answer_1": "خديجه",
+    "answer_2": "فاطمه",
+    "answer_3": "مريم",
+    "answer_4": "عائشه",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "قام أحدهم بمبادلة صاع من القمح الجيد بصاعين من القمح الرديء لشخص آخر ما حكم هذه المبادلة؟",
+    "answer_1": "جائزة",
+    "answer_2": "مضاربة",
+    "answer_3": "ربا الفضل",
+    "answer_4": "ربا النسيئة",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم مرة ذكرت السيدة مريم في القرآن الكريم؟",
+    "answer_1": "43 مرة",
+    "answer_2": "55 مرة",
+    "answer_3": "42 مرة",
+    "answer_4": "34 مرة",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كي يسلم اي شخص ماذا يجب عليه فعله ؟؟",
+    "answer_1": "الزكاة",
+    "answer_2": "الصلاة",
+    "answer_3": "نطق الشهادتين ثم اتباع ما سبق",
+    "answer_4": "الحج والصيام",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "من أول من أسلم من الصبيان ؟؟",
+    "answer_1": "ابو بكر الصديق",
+    "answer_2": "علي بن ابي طالب",
+    "answer_3": "عثمان بن عفان",
+    "answer_4": "عمر بن الخطاب",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما هي السورة التي يطلق عليها أم الكتاب؟",
+    "answer_1": "سورة محمد",
+    "answer_2": "سورة البقرة",
+    "answer_3": "سورة يس",
+    "answer_4": "سورة الفاتحة",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم عدد آيات سورة البقرة؟",
+    "answer_1": "286 آية",
+    "answer_2": "280 آية",
+    "answer_3": "277 آية",
+    "answer_4": "298 آية",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما هي السورة التي تسمى سورة التوديع؟",
+    "answer_1": "سورة الزلزلة",
+    "answer_2": "سورة الحج",
+    "answer_3": "سورة النصر",
+    "answer_4": "سورة الفيل",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم عدد القراءات الصحيحة للقرآن الكريم؟",
+    "answer_1": "7 قراءات",
+    "answer_2": "8 قراءات",
+    "answer_3": "9 قراءات",
+    "answer_4": "10 قراءات",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "أين ذكرت الآية الكريمة: ( وما آتاكم الرسول فخذوه وما نهاكم عنه فانتهوا)؟",
+    "answer_1": "سورة الحشر",
+    "answer_2": "سورة الصف",
+    "answer_3": "سورة الجمعة",
+    "answer_4": "سورة الواقعة",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "من الشخص الذي انزلت عليه سورة الهمزة ؟؟",
+    "answer_1": "أبو جهل",
+    "answer_2": "أمية بن خلف",
+    "answer_3": "سعد بن ابي وقاس",
+    "answer_4": "ابي سفيان",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "أحد هؤلاء الصحابة من العشرة المبشرين بالجنة؟",
+    "answer_1": "سلمان الفارسي",
+    "answer_2": "عقيل بن أبي طالب",
+    "answer_3": "سعد بن أبي وقاص",
+    "answer_4": "الأشعث بن قيس",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "في أي عام هجري وقعت غزوة خيبر؟",
+    "answer_1": "10 هجري",
+    "answer_2": "5 هجري",
+    "answer_3": "9 هجري",
+    "answer_4": "7 هجري",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم عدد السور التي ابتدأت بالحروف المقطعة (الم)؟",
+    "answer_1": "أربعة سور",
+    "answer_2": "خمس سور",
+    "answer_3": "ثلاث سور",
+    "answer_4": "ستة سور",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "من أول من ألف في أحكام القرآن ؟",
+    "answer_1": "الشافعي",
+    "answer_2": "الحبشي",
+    "answer_3": "الاموي",
+    "answer_4": "صحيح مسلم",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "في أي سورة وردت الآية: (يمحق الله الربا ويربي الصدقات والله لا يحب كل كفار أثيم)؟",
+    "answer_1": "المائدة",
+    "answer_2": "البقرة",
+    "answer_3": "آل عمران",
+    "answer_4": "هود",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم مرة ذكرت اسم الجنة فى القرآن الكريم؟",
+    "answer_1": "45",
+    "answer_2": "66",
+    "answer_3": "12",
+    "answer_4": "43",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم عدد مصارف الزكاة؟",
+    "answer_1": "ثمانية",
+    "answer_2": "خمسة",
+    "answer_3": "سبعة",
+    "answer_4": " تسعة",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم عدد جميع ركعات الصلاة في اليوم ؟؟",
+    "answer_1": "12",
+    "answer_2": "17",
+    "answer_3": "20",
+    "answer_4": "15",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما السورة التي ختمت باسم وقت من أوقات الصلاة؟",
+    "answer_1": "سورة القدر",
+    "answer_2": "سورة البلد",
+    "answer_3": "سورة الأعلى",
+    "answer_4": "سورة الفجر",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم مرة اعتمر النبي صلى الله عليه وسلم؟",
+    "answer_1": "أربع عمرات",
+    "answer_2": "عمرة واحدة",
+    "answer_3": "خمس عمرات",
+    "answer_4": "سبع عمرات",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "في أي الغزوات أسرت الشيماء أخت الرسول صلى الله عليه وسلم من الرضاعة ؟",
+    "answer_1": "احد",
+    "answer_2": "الاحزاب",
+    "answer_3": "حنين",
+    "answer_4": "الكوفه",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "قال تعالى في سورة العاديات: ( فالمغيرات صبحا (3)) ماالمقصود بالمغيرات؟",
+    "answer_1": "الرياح الشديدة",
+    "answer_2": "الابل",
+    "answer_3": "الملائكة السابحين",
+    "answer_4": "الخيل",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ماذا لقب ابراهيم عليه السلام؟",
+    "answer_1": "الصديق",
+    "answer_2": "شيخ المرسلين",
+    "answer_3": "اسرائيل",
+    "answer_4": "الخليل",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما هي السورة التي لا تبدأ بالبسملة؟",
+    "answer_1": "النحل",
+    "answer_2": "النمل",
+    "answer_3": "الإسراء",
+    "answer_4": "التوبة",
+    "right_answer": "4"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "قال تعالى: (والصافات صفا * فالزاجرات زجرا) ما المقصود بالزاجرات؟",
+    "answer_1": "الملائكة",
+    "answer_2": "الرياح",
+    "answer_3": "الغمام",
+    "answer_4": "السحاب",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "من أول من نقض العهد مع الرسول صلى الله عليه وسلم من القبائل اليهودية ؟",
+    "answer_1": "يهود بني الاشبح",
+    "answer_2": "يهود بني قوفه",
+    "answer_3": "يهود بني قينقاع",
+    "answer_4": "يهود الاوس",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما اسم الزوجة الثالثة بالترتيب التي تزوجها النبي صلى الله عليه وسلم؟",
+    "answer_1": "حفصة بنت عمر",
+    "answer_2": "عائشة بنت أبي بكر الصديق",
+    "answer_3": "أم سلمة",
+    "answer_4": "سودة بنت زمعة",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "الشهر الثامن في التقويم الهجري؟",
+    "answer_1": "شعبان",
+    "answer_2": "ذو الحجة",
+    "answer_3": "محرم",
+    "answer_4": "شوال",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما اسم السورة التي تنتهي آياتها بحرف السين؟",
+    "answer_1": "لفلق",
+    "answer_2": "الصمد",
+    "answer_3": "الناس",
+    "answer_4": "الضخى",
+    "right_answer": "3"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما اسم الكتب التي أنزلها الله على داود ؟",
+    "answer_1": "الانجيل",
+    "answer_2": "الزبور",
+    "answer_3": "الصحف",
+    "answer_4": "القران",
+    "right_answer": "2"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "ما هو الاسم الذي يطلق على الزيادة في الدين نظير الأجل أو الزيادة فيه؟",
+    "answer_1": "ربا النسيئة",
+    "answer_2": "ربا الفضل",
+    "answer_3": "مضاربة مشروعة",
+    "answer_4": "ربا المال",
+    "right_answer": "1"
+  },
+
+  {
+    "status": true,
+    "owner": "@BK9dev",
+    "question": "كم عدد السور التي افتتحت بثلاثة أحرف؟",
+    "answer_1": "16 سورة",
+    "answer_2": "15 سورة",
+    "answer_3": "14 سورة",
+    "answer_4": "13 سورة",
+    "right_answer": "4"
+  }
 ]
